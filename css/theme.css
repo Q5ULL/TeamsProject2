@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'pt_sans_narrowregular';
+    src: url('../assets/fonts/PTN56F-webfont.eot');
+    src: url('../assets/fonts/PTN56F-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../assets/fonts/PTN56F-webfont.woff') format('woff'),
+         url('../assets/fonts/PTN56F-webfont.ttf') format('truetype'),
+         url('../assets/fonts/PTN56F-webfont.svg#pt_sans_narrowregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'DINMediumAlternate';
+    src: url('../assets/fonts/DINMediumAlternate.eot');
+    src: url('../assets/fonts/DINMediumAlternate.eot?#iefix') format('embedded-opentype'),
+         url('../assets/fonts/DINMediumAlternate.woff') format('woff'),
+         url('../assets/fonts/DINMediumAlternate.ttf') format('truetype'),
+         url('../assets/fonts/DINMediumAlternate.svg#DINMediumAlternate') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'DINBold';
+    src: url('../assets/fonts/DINBold.eot');
+    src: url('../assets/fonts/DINBold.eot?#iefix') format('embedded-opentype'),
+         url('../assets/fonts/DINBold.woff') format('woff'),
+         url('../assets/fonts/DINBold.ttf') format('truetype'),
+         url('../assets/fonts/DINBold.svg#DINBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'DINLightAlternate';
+    src: url('../assets/fonts/DINLightAlternate.eot');
+    src: url('../assets/fonts/DINLightAlternate.eot?#iefix') format('embedded-opentype'),
+         url('../assets/fonts/DINLightAlternate.woff') format('woff'),
+         url('../assets/fonts/DINLightAlternate.ttf') format('truetype'),
+         url('../assets/fonts/DINLightAlternate.svg#DINLightAlternate') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'DINRegular';
+    src: url('../assets/fonts/DINRegular.eot');
+    src: url('../assets/fonts/DINRegular.eot?#iefix') format('embedded-opentype'),
+         url('../assets/fonts/DINRegular.woff') format('woff'),
+         url('../assets/fonts/DINRegular.ttf') format('truetype'),
+         url('../assets/fonts/DINRegular.svg#DINRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

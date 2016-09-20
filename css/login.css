@@ -1,0 +1,100 @@
+body {
+  background-color: #f7f6ce;
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-family: "DINMediumAlternate", Helvetica, Arial, sans-serif;
+}
+section {
+  flex: 1;
+}
+.wrapper {
+  width: 100%;
+ margin: 0 auto;
+}
+a{
+  text-decoration: none;
+}
+.centeredLogo {
+    font-size: 30px;
+    color: #71972b;
+/*     padding-top: 300px; */
+    margin: 20px auto;
+/*     background-image: url('http://placehold.it/300x300'); */
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+/* -----Login -------- */
+.login {
+  background-color: #d6de23;
+   max-width: 840px;
+  margin: 0 auto;
+}
+form{
+	padding: 20px 0;
+	position: relative;
+	z-index: 2;
+  color: #84b033;
+  max-width: 840px;
+}
+input{
+  display: block;
+  appearance: none;
+  outline: 0;
+  border: 0;
+  border-bottom: 4px solid #71972b; 
+  background-color: #d6de23;
+  width: 250px;
+  padding: 10px 15px;
+  margin: 0 auto 10px auto;
+  display: block;
+  text-align: left;
+  font-size: 18px;
+/*  input color not working*/
+  color: #84b033;
+  transition-duration: 0.25s;
+  font-weight: 300;
+  box-shadow: none;
+}
+input:hover{
+  background-color: fade(white, 40%);
+}
+
+input:focus{
+  background-color: white;
+  width: 300px;
+}
+
+::placeholder {
+  color: #84b033;
+}
+
+::-moz-placeholder {
+  color: #84b033;
+}
+
+:-ms-input-placeholder {
+  color: #84b033;
+}
+
+::-webkit-input-placeholder {
+  color: #84b033;
+}
+form .gradient_green {
+  transition: .5s ease-out all;
+}
+form .gradient_green:hover {
+  background-color: #d6de23;
+  cursor: pointer;
+}
+form .gradient_green:active {
+  background-color: #e19926;
+  cursor: pointer;
+}
+/* IMAGE */
+picture img {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+}
